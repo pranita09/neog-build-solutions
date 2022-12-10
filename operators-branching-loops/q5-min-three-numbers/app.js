@@ -15,3 +15,5 @@ function maxNumber(num1, num2, num3){
 }
 
 maxNumber(firstNumber, secondNumber, thirdNumber);
+
+// We can also dot it using a array of these three numbers.
